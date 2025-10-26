@@ -74,13 +74,6 @@ Each button triggers a specific GSM function using standard **AT commands**.
   - **Button 3:** Ends an ongoing call using (`ATH`).  
 - Implements delays to ensure proper GSM response timing.  
 
----
-
-## 📄 Sample Output (Serial Monitor or LCD)
-
-
----
-
 ## 🛠️ How to Use
 
 1. Connect the GSM module and buttons as per the pin mapping.  
