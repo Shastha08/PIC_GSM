@@ -117,7 +117,7 @@ Each button triggers a specific GSM function using standard **AT commands**.
 
 ## 📸 Project Images
 
-| Incoming Call | SMS Example |
-|----------------|-------------|
-| ![Incoming Call Example](https://github.com/user-attachments/assets/your-call-image) | ![SMS Example](https://github.com/user-attachments/assets/your-sms-image) |
+![WhatsApp Image 2025-10-25 at 5 01 48 PM![WhatsApp Image 2025-10-25 at 5 00 18 PM](https://github.com/user-attachments/assets/0b7370cd-343f-4786-a137-888860ce854d)
+](https://github.com/user-attachments/assets/74bef407-bf60-41f5-b351-0281ea2e79bd)
+![WhatsApp Image 2025-10-25 at 5 00 18 PM](https://github.com/user-attachments/assets/87ae5060-3749-4cbb-bd93-d3ca7cd83b5d)
 
